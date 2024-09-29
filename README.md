@@ -62,4 +62,3 @@ Copyright (c) 2024-present, Alex Fazio
 ---
 
 [![Watch the video](https://i.imgur.com/VKRoApP.png)](https://x.com/alxfazio/status/1826731977283641615)
-
